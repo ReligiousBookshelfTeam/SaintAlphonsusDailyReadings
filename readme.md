@@ -17,4 +17,4 @@ For this book the formatting needs to be in HTML following these standards:
 
 ## Contiubute
 
-If you would like to contribute to this project either email ReligionsBookshelf@RomanAgenda.com for more info or fork the repo and submit a PR.
+If you would like to contribute to this project, either monitarily or by helping to transcribe the content of the book, please email ReligionsBookshelf@RomanAgenda.com for more info or fork the repo and submit a PR.
