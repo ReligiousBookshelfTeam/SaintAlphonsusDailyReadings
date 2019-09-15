@@ -2,7 +2,7 @@
 
 This project is the transcription of the eight volume set of meditations and readings for every day of the year which is drawn from the writings of Saint Alphonsus, edited by Rev. J. B. Coyle, C.SS.R. and published in 1923.
 
-The goal for this project is to make versions of this book formatted for the web, eBook, and print-on-demand physical book.
+The goal for this project is to make versions of this book formatted for the web, eBook, and print-on-demand physical book. The web-based version of this project can be found at: https://www.religiousbookshelf.com/meditations-and-readings/
 
 ## Formatting standards
 
