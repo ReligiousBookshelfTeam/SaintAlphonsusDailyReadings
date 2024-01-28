@@ -13,6 +13,6 @@ For this book the formatting needs to be in HTML following these standards:
   * Well-formed HTML is required (proper closing tags for paragraps, italics, etc)
 
 
-## If you want to contriubute...
+## If you want to contribute...
 
 If you would like to contribute to this project please email ReligiousBookshelf@RomanAgenda.com to coordinate effort so people aren't accidentally transcribing/correcting the same parts of the source material at the same time without realizing it.
